@@ -2,6 +2,7 @@
 
 A client library for ESP8266 to connect to NETPIE IOT Platform. With this library, ESP8266 will be transformed into a working unit called microgear. Once online, it can utilize communication and coordination services provided by NETPIE platform. For more details on the NETPIE Platform, please visit https://netpie.io . Original author: Chavee Issariyapat <i@chavee.com>. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.2.4. Upstream: <https://github.com/netpieio/microgear-esp8266-arduino>.
 
+**Source last updated:** 2020-06-30  
 **Language:** C++ / Arduino  
 **Target:** Arduino (esp8266)  
 **Output:** Arduino library
