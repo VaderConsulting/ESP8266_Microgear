@@ -20,6 +20,11 @@ A client library for ESP8266 to connect to NETPIE IOT Platform. With this librar
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/ESP8266_Microgear`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+- ESP8266 Arduino core
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Chavee Issariyapat <i@chavee.com>
